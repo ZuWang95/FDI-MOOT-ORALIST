@@ -1,1 +1,2 @@
 # FDI-MOOT-ORALIST
+2022 FDI MOOT oralist.
